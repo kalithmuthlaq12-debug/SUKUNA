@@ -1,10 +1,10 @@
 {
-  "name": "KANGO-XMD",
+  "name": "SUKUNA-MD",
   "version": "2.4.5",
-  "description": "KANGO, the best WhatsApp Bot",
+  "description": "SUKUMA, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
+  "repository": "",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -17,17 +17,17 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "SUKUNA-Bot",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "94782385634",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "NXC </> Sukuna",
       "required": true
     },
     "STICKER_PACK_NAME": {
@@ -52,7 +52,7 @@
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Accra",
+      "value": "Asia/Colombo",
       "required": false
     },
    "GITHUB_TOKEN": {
